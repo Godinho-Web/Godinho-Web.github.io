@@ -3,7 +3,7 @@ body{
     font-size: 12pt;
     text-align: justify;
     margin: 0;
-    background-color: #fffccc;
+    background-color: #fff;
 }
 header {
     display: flex;  
