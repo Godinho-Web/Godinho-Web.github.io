@@ -23,10 +23,9 @@ h3{
     background-color: rgb(250, 40, 40);
     padding: 20px 30px 30px 30px;
 }
-
 nav a{
     color: black;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
 }
 nav a:hover{
@@ -167,5 +166,11 @@ p{
 }
 #santa{
     padding-bottom: 40px;
+}
+.embaçado img{
+    opacity: 0.7;
+}
+.embaçado img:hover{
+    opacity: 1;
 }
 
