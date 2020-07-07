@@ -1,0 +1,166 @@
+body{
+    font-family: Arial, Verdana, Tahoma;
+    font-size: 12pt;
+    text-align: justify;
+    margin: 0;
+    background-color: rgb(197, 194, 194);
+}
+header {
+    display: flex;  
+}
+h1{
+    padding-top: 50px;
+}
+h2{
+    padding-top: 30px;
+}
+h3{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#topo{
+    background-color: rgb(140, 204, 103);
+    padding: 20px 30px 30px 30px;
+}
+nav a{
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color:white;
+    color: black;
+    }
+nav a:active{
+    color: #00ffff;
+}
+a:visited{
+    background-color: rgb(105, 77, 231);
+}
+footer {
+    background-color: rgb(140, 204, 103);
+    padding: 50px;
+    text-align: center;
+}
+footer a:hover{
+    /*background-color: #fff;*/
+    color: black;
+    opacity: 50%;
+      
+}
+#insta{
+    margin-top: 20px;
+}
+footer a{
+    color: #fff;
+    padding: 5px;
+}
+#div-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p{
+    margin: 50px 50px 50px 20px;
+}
+
+#div-image2{
+    display: flex;
+    justify-content: left;
+    margin-left: 2%;
+
+}
+#div-image3{
+    float: right;
+    display: flex;
+    margin-left: 15%;
+} 
+#contem  :hover{
+    box-shadow: 2px 2px 20px rgba(0,0,0,.5);
+
+}
+#contem{
+    display: flex;
+    height: auto;
+}
+#contem img{
+    border-radius: 8px;
+
+}
+#direita{
+   display: flex;
+   
+}
+#posicionamento01 {
+    display: flex;
+}
+#posicionamento02 {
+    display: flex;
+}
+#posicionamento03 {
+    display: flex;
+}
+#posicionamento04 {
+    display: flex;
+}
+#image01 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+#image01 :hover {
+    box-shadow: 2px 2px 20px rgba(0,0,0,.5);
+}
+#deslocamento {
+    text-align: center;
+}
+#image05{
+    display: flex;
+    flex-direction: row;
+}
+#image05 :hover{
+    box-shadow: 5px 5px 60px rgba(102, 87, 87, 0.5);
+}
+#roupas {
+    margin-right: 15%;
+    margin-left: 5%;
+    
+}
+#alimentos{
+    margin-right: 15%;
+    margin-left: 20px;
+    
+}
+#image05 img{
+    border-radius: 15px;
+    
+}
+#din{
+    text-align: center;
+    
+}
+#din1 {
+    margin-right: 50px;
+    margin-left: 750px;
+}
+#image06{
+    display: flex;
+    margin-left: 10px;
+}
+#pd{
+    margin-left: 20%;
+}
+#par{
+    display: flex;
+}
+#parceria {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+#santa{
+    padding-bottom: 40px;
+}
+
